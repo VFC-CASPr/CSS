@@ -20,7 +20,7 @@ layout:
 
 #### Purpose
 
-To provide a modular, actionable framework for state and local governments to deploy, govern, and sustain cybersecurity policy functions using the Civic Security Stack model.
+To provide a modular and actionable framework for state and local governments to deploy, govern, and sustain cybersecurity policy functions using the Civic Security Stack model.
 
 ### 1. Stack Overview
 
